@@ -8,6 +8,6 @@ From Chapter 3 of Eaton, Charlie. Bankers in the Ivory Tower: The Troubling Rise
 
 ![f3_2_bankers](https://user-images.githubusercontent.com/6294571/168411233-8a185ade-7561-4ac3-9057-843fb4b32aad.png)
 
-**The first Tab of trends-student-aid-excel-data-2021.xlsx plots a supplemental figure of total federal student loans to for-profit college students using College Board 2021 Trends in Student Aid Data:**
+**The first Tab of trends-student-aid-excel-data-2021.xlsx plots a supplemental figure of total federal student loans to for-profit college students using College Board 2021 Trends in Student Aid Data: https://research.collegeboard.org/trends/student-aid**
 
 ![for-profit federal loans](https://user-images.githubusercontent.com/6294571/168511167-c7158a8a-c020-44da-b373-ea32da14bc96.png)
