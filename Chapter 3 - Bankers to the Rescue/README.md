@@ -10,4 +10,4 @@ From Chapter 3 of Eaton, Charlie. Bankers in the Ivory Tower: The Troubling Rise
 
 **The first Tab of trends-student-aid-excel-data-2021.xlsx plots a supplemental figure of total federal student loans to for-profit college students using College Board 2021 Trends in Student Aid Data:**
 
-[trends-student-aid-excel-data-2021.xlsx](https://github.com/HigherEdData/BankersInTheIvoryTower/files/8696787/trends-student-aid-excel-data-2021.xlsx)
+![for-profit federal loans](https://user-images.githubusercontent.com/6294571/168510633-07aca64f-f04c-422b-8359-2d353769d2cf.png)
