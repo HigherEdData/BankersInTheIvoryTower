@@ -10,4 +10,4 @@ f3_2_bankers.xlsx plots Figure 3.2 from *Bankers in the Ivory Tower* using OMB F
 
 The first Tab of trends-student-aid-excel-data-2021.xlsx plots a supplemental figure of total federal student loans to for-profit college students using College Board 2021 Trends in Student Aid Data: 
 
-![for-profit federal loans](https://user-images.githubusercontent.com/6294571/168508797-9ad7bc5c-e50c-4f1b-a13f-68c70ee3a67c.png)
+![for-profit federal loans](https://user-images.githubusercontent.com/6294571/168509425-3b7f6f7d-7cee-4836-8df5-4e38de01e649.png)
